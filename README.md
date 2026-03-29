@@ -1,6 +1,6 @@
 # My Blog App
 
-[Live Project Link](https://projects.arbabansari.com)
+[Live Project Link](https://blog.arbabansari.com)
 
 ## This is a feature rich blog web application
 
